@@ -12,9 +12,9 @@ Credit risk assessment is an essential task for financial institutions to minimi
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** *Coming Soon*
+🔗 **Live Demo:** **
 
-> Replace the above with your deployment URL after hosting the application on Render, Railway, or another platform.
+
 
 ---
 
