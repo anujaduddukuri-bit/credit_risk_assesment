@@ -12,7 +12,7 @@ Credit risk assessment is an essential task for financial institutions to minimi
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** **
+🔗 **Live Demo:** *https://anujaduddukuri-bit.github.io/credit_risk_assesment/*
 
 
 
